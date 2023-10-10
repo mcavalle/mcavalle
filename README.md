@@ -17,7 +17,7 @@ Aqui estão alguns dos meus repositórios mais notáveis:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcavalle&show_icons=true&theme=dark)](https://github.com/seu-username)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usermcavalle&layout=compact&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcavalle&layout=compact&theme=dark)](https://github.com/mcavalle)
 
 ## Entre em Contato
 
