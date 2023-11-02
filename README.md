@@ -1,31 +1,46 @@
-# Bem-vindo ao meu GitHub!
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mariana-cavalle-a8078811a/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-brightgreen)](https://www.instagram.com/mariana_cavalle/)
+<h3>Sobre mim</h3>
 
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no <a href="link da sua faculdade">Instituto Federal de São Paulo</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Java, SpringBoot, JavaScript e React**.
 
-Aqui você encontrará uma coleção dos meus projetos e contribuições. Sinta-se à vontade para explorar, clonar e contribuir para os repositórios!
+<h3>Minhas Skills</h3>
 
-## Meus Projetos
+**Aplicações e dados**
 
-Aqui estão alguns dos meus repositórios mais notáveis:
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-- [Repositório 1](https://github.com/mcavalle/spoonacular-sdk): Projeto desenvolvido para Linguagem de Programação I, em que foi criado um SDK em Java para se conectar às APIs da Spoonacular.
-- [Repositório 2](https://github.com/mcavalle/api-sebo-online): Projeto desenvolvido para Programação Dinâmica para Web, em que foi criada uma API para um Sebo online.
+**Utilidades**
 
-## Estatísticas do GitHub
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcavalle&show_icons=true&theme=dark)](https://github.com/seu-username)
+**DevOps**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcavalle&layout=compact&theme=dark)](https://github.com/mcavalle)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## Entre em Contato
+**Ferramentas de desenvolvimento**
 
-Você pode me encontrar nas seguintes redes sociais:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-- [LinkedIn](https://www.linkedin.com/in/mariana-cavalle-a8078811a/)
-- [Instagram](https://www.instagram.com/mariana_cavalle/)
+<br/>
 
-Sinta-se à vontade para me seguir e entrar em contato!
+<a href="https://github.com/mcavalle">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcavalle&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+</a>
 
-Obrigada por visitar meu perfil. 😊
+<h3>Onde me encontrar</h3>
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-cavalle-a8078811a/)](https://www.linkedin.com/in/mariana-cavalle-a8078811a/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianacavalle1@gmail.com)](mailto:marianacavalle1@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/mcavalle?label=follow&style=social)](https://github.com/mcavalle)
