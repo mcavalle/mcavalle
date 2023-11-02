@@ -1,44 +1,31 @@
-# Sobre Mim
+<h1 align="center">Hi, I'm Mariana!</h1>
+<h3 align="center">A Back-end developer from Brazil</h3>
 
-- 🌱 Atualmente estou explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estou cursando **Análise e Desenvolvimento de Sistemas** no [Instituto Federal de São Paulo](https://www.ifsp.edu.br/).
-- 💡 Meu foco de estudo atual inclui **Java, SpringBoot, JavaScript e React**.
 
-# Minhas Skills
+- 🔭 I’m currently studying in <a href="https://spo.ifsp.edu.br/" target="blank">Instituto Federal de São Paulo</a>
 
-**Linguagens e Ferramentas**
+- 🤝 I’m available for freelancing.
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io.badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io.badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io.badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io.badge/-MySQL-333333?style=flat&logo=mysql)
+- 🌱 I’m currently learning Java, SpringBoot and React
 
-**Utilidades**
+- 💬 Ask me about **Java**
 
-![Insomnia](https://img.shields.io.badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io.badge/-Postman-333333?style=flat&logo=postman)
+- 📫 How to reach me **marianacavalle1@gmail.com**
 
-**DevOps**
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<p align="center">
 
-**Ferramentas de Desenvolvimento**
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mariana-cavalle-a8078811a/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/mcavalle">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/mariana_cavalle">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>	
+      </div>
+</p>
 
-![Visual Studio Code](https://img.shields.io.badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io.badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-
-# Estatísticas
-
-<a href="https://github.com/mcavalle">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcavalle&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Estatísticas do GitHub" />
+### GitHub Stats
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mcavalle&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-# Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-Mariana_Cavalle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-cavalle-a8078811a/)](https://www.linkedin.com/in/mariana-cavalle-a8078811a/)
-[![Email](https://img.shields.io/badge/-marianacavalle1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianacavalle1@gmail.com)](mailto:marianacavalle1@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/mcavalle?label=follow&style=social)](https://github.com/mcavalle)
