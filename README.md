@@ -12,6 +12,10 @@
 
 - 📫 How to reach me **marianacavalle1@gmail.com**
 
+### GitHub Stats
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mcavalle&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
 
 <p align="center">
@@ -25,7 +29,3 @@
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>	
       </div>
 </p>
-
-### GitHub Stats
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mcavalle&layout=compact&langs_count=8&theme=algolia"/>
-</a>
