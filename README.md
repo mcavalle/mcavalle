@@ -6,7 +6,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Java, SpringBoot and React
+- 🌱 I’m currently learning Java, SpringBoot and Angular
 
 - 💬 Ask me about **Java**
 
