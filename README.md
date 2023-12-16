@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mariana!</h1>
 <h3 align="center">A Back-end developer from Brazil</h3>
 
-<div align=center>
+
 - 🔭 I’m currently studying in <a href="https://spo.ifsp.edu.br/" target="blank">Instituto Federal de São Paulo</a>
 
 - 🤝 I’m available for freelancing.
@@ -12,6 +12,7 @@
 
 - 📫 How to reach me **marianacavalle1@gmail.com**
 
+<div align=center>
 ### GitHub Stats
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mcavalle&layout=compact&langs_count=8&theme=algolia"/>
 </a>
