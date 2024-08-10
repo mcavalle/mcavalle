@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Mariana!</h1>
-<h3 align="center">A Back-end developer from Brazil</h3>
+<h3 align="center">A Software Engineer from Brazil</h3>
 
 
 - 🔭 I’m currently studying in <a href="https://spo.ifsp.edu.br/" target="blank">Instituto Federal de São Paulo</a>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Java, SpringBoot and Angular
+- 🌱 I’m currently learning Java, Python and SRE
 
 - 💬 Ask me about **Java**
 
